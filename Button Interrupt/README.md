@@ -27,4 +27,3 @@ Every time the variable increments 1000 times the Red LED (P1.0) gets switched. 
 Every time the variable increments 1000 times the Red LED (P1.0) gets switched. Then when the incremented value reaches 2000 the Green LED (P1.6) blinks and the variable gets set to 0.
 
 
-## Demonstation

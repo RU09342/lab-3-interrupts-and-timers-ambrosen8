@@ -1,17 +1,10 @@
 # 8 Bit Counter
 
 ## Purpose
-
+Create an 8 bit counter that increments when a button is pressed.
 
 ## Theory
-
-
-
-## Board Features
-
-### MSP4302553
-
-
+A variable gets incremented when a button is pressed. The variable gets output as an 8 bit binary number to a set of LEDs.
 
 ## Demonstation
 
